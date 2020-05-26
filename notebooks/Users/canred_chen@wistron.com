@@ -6,7 +6,7 @@
 
 -- MAGIC %md
 -- MAGIC ## Create a quickstart cluster
--- MAGIC ## canred test
+-- MAGIC ## canred test2
 -- MAGIC 1. In the sidebar, right-click the **Clusters** button and open the link in a new window.
 -- MAGIC 1. On the Clusters page, click **Create Cluster**.
 -- MAGIC 1. Name the cluster **Quickstart**.
